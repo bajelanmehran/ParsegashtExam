@@ -4,7 +4,6 @@ namespace App\Http\Controllers;
 
 use App\Exceptions\ApiException;
 use App\Http\Requests\User\CreateUserRequest;
-use App\Http\Requests\User\DeleteUserRequest;
 use App\Http\Requests\User\UpdateUserRequest;
 use App\Http\Requests\User\UsersRequest;
 use App\Http\Resources\UserResource;
